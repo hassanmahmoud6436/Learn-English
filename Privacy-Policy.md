@@ -3,11 +3,11 @@ Privacy Policy for "Learn English" App
 
 Effective Date: [Insert Date]
 
-###1. Introduction
+### 1. Introduction
 
 Welcome to the "Learn English" app. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our app. Your privacy is important to us, and we are committed to protecting it.
 
-2. Information We Collect
+## 2. Information We Collect
 
 We may collect the following types of information when you use our app:
 
