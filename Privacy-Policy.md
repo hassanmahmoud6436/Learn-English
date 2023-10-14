@@ -11,37 +11,47 @@ Welcome to the "Learn English" app. This Privacy Policy is designed to help you 
 
 We may collect the following types of information when you use our app:
 
-### a. Personal Information: We may collect personal information when you create an account, such as your name, email address, and other relevant details.
+### a. Personal Information: 
+We may collect personal information when you create an account, such as your name, email address, and other relevant details.
 
-### b. User-Generated Content: The app allows you to share posts and engage in public chat. Any content you create and share, including text and media, may be collected and stored.
+### b. User-Generated Content: 
+The app allows you to share posts and engage in public chat. Any content you create and share, including text and media, may be collected and stored.
 
-### c. Usage Information: We collect information about your interactions with the app, including pages you visit and the content you access.
+### c. Usage Information: 
+We collect information about your interactions with the app, including pages you visit and the content you access.
 
 ## 3. How We Use Your Information
 
 We use your information for the following purposes:
 
-### a. Account Management: To manage your account, enable access to specific features, and provide personalized content.
+### a. Account Management: 
+To manage your account, enable access to specific features, and provide personalized content.
 
-### b. User-Generated Content: To display the posts you create and to facilitate public chat interactions.
+### b. User-Generated Content: 
+To display the posts you create and to facilitate public chat interactions.
 
-### c. App Improvement: To analyze app usage and improve our services, including the "Listen and Learn English" pages.
+### c. App Improvement: 
+To analyze app usage and improve our services, including the "Listen and Learn English" pages.
 
 ## 4. Sharing of Information
 
 We may share your information under the following circumstances:
 
-### a. With Other Users: Certain features of the app, such as public chat, involve sharing your information with other users.
+### a. With Other Users: 
+Certain features of the app, such as public chat, involve sharing your information with other users.
 
-### b. Legal Requirements: We may share your information to comply with legal obligations or to protect our rights, privacy, safety, or property.
+### b. Legal Requirements: 
+We may share your information to comply with legal obligations or to protect our rights, privacy, safety, or property.
 
 ## 5. Your Choices
 
 You can control your information through the following options:
 
-### a. Account Settings: You can update or delete your account and personal information at any time.
+### a. Account Settings: 
+You can update or delete your account and personal information at any time.
 
-### b. Public Chat: You have the option to participate in or leave public chat discussions.
+### b. Public Chat: 
+You have the option to participate in or leave public chat discussions.
 
 ## 6. Security
 
